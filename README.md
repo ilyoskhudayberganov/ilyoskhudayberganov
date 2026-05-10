@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1120,50:111827,100:1E293B&text=ILYOS%20KHUDAYBERGANOV&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20•%20Startup%20Founder%20•%20Product%20Builder&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,50:0F172A,100:111827&text=ILYOS%20KHUDAYBERGANOV&fontSize=42&fontColor=22D3EE&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20•%20Startup%20Founder%20•%20Product%20Builder&descAlignY=58&descColor=CBD5E1"/>
 
 <br/>
 
@@ -117,9 +117,9 @@ Next-generation social platform focused on:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ilyoskhudayberganov&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=94A3B8&icon_color=38BDF8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ilyoskhudayberganov&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&text_color=94A3B8&icon_color=38BDF8"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyoskhudayberganov&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=94A3B8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyoskhudayberganov&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=94A3B8"/>
 
 </div>
 
@@ -147,7 +147,7 @@ Next-generation social platform focused on:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ilyoskhudayberganov&style=for-the-badge&color=0ea5e9"/>
+<img src="https://komarev.com/ghpvc/?username=ilyoskhudayberganov&style=for-the-badge&color=22D3EE"/>
 
 </div>
 
