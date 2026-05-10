@@ -1,19 +1,25 @@
 <div align="center">
 
-# 𝐈𝐋𝐘𝐎𝐒 𝐊𝐇𝐔𝐃𝐀𝐘𝐁𝐄𝐑𝐆𝐀𝐍𝐎𝐕
+# ILYOS KHUDAYBERGANOV
 
-### Founder • Full-Stack Engineer • Product Architect
+### Product Engineer • Startup Founder • Building Digital Systems for the Future
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=22&pause=1200&color=94A3B8&center=true&vCenter=true&width=800&lines=Building+products+that+scale.;Designing+modern+digital+experiences.;Focused+on+AI%2C+Education+and+Innovation.;Founder+of+Educontest+and+Loopinuz."/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1200&color=94A3B8&center=true&vCenter=true&width=900&lines=Building+modern+technology+products;Founder+of+Educontest+and+Loopinuz;Focused+on+AI%2C+Education+and+Scalable+Systems;Designing+clean+and+powerful+digital+experiences"/>
 
 <br/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/BASED%20IN-Uzbekistan-0F172A?style=flat-square"/>
-<img src="https://img.shields.io/badge/FOCUS-Startups-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/FIELD-Full--Stack%20Engineering-0B1120?style=flat-square"/>
+  <a href="https://educontest.uz">
+    <img src="https://img.shields.io/badge/Educontest-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+
+  <a href="https://loopin.uz">
+    <img src="https://img.shields.io/badge/Loopinuz-18181B?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20EdTech%20%7C%20Startups-0F172A?style=for-the-badge"/>
 </p>
 
 </div>
@@ -23,73 +29,82 @@
 # ABOUT
 
 ```ts
-class Founder {
-  name = "Ilyos Khudayberganov"
+const ilyos = {
+  role: "Full-Stack Engineer & Founder",
 
-  role = [
-    "Full-Stack Engineer",
-    "UI/UX Designer",
-    "Startup Founder"
-  ]
+  basedIn: "Uzbekistan",
 
-  building = [
-    "Educontest.uz",
-    "Loopinuz"
-  ]
+  building: [
+    "Educontest",
+    "Loopinuz",
+    "AI-powered education systems"
+  ],
 
-  vision =
-    "Create globally scalable digital products from Uzbekistan."
+  specialization: [
+    "Frontend Architecture",
+    "Backend Systems",
+    "UI/UX Design",
+    "Product Engineering",
+    "Scalable Platforms"
+  ],
+
+  mission:
+    "Building scalable digital products with real-world impact."
 }
 ```
 
-I build modern technology products with a strong focus on:
+---
 
-- clean system architecture
-- modern UI/UX
-- scalable backend infrastructure
-- AI-powered solutions
-- high-performance web platforms
+# PHILOSOPHY
+
+> Technology should feel simple, scalable, and meaningful.
+
+I focus on building products that combine:
+
+- modern interface systems
+- scalable engineering
+- clean architecture
+- intelligent product experience
+- long-term usability
 
 ---
 
-# SELECTED PROJECTS
-
-### 🎓 EDUCONTEST
-
-Academic ecosystem designed for modern education.
-
-Features include:
-
-- smart testing systems
-- educational analytics
-- competition platforms
-- scalable dashboards
-- modern student experience
-
-<br/>
-
-### 🦉 LOOPINUZ
-
-Next-generation social platform focused on:
-
-- modern interaction
-- AI integration
-- minimalist user experience
-- scalable product systems
-
----
-
-# STACK
+# TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,postgres,firebase,tailwind,figma,python,cpp,git,github,linux,vercel"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,firebase,tailwind,figma,python,cpp,git,github,linux,vercel,vscode"/>
 
 </div>
 
 ---
 
-# GITHUB
+# FEATURED PROJECTS
+
+## 🎓 EDUCONTEST
+
+Educational ecosystem focused on:
+
+- online assessments
+- academic competitions
+- analytics systems
+- teacher management tools
+- scalable learning infrastructure
+
+<br/>
+
+## 🦉 LOOPINUZ
+
+Modern social platform built around:
+
+- clean communication
+- AI integration
+- minimal user experience
+- scalable architecture
+
+---
+
+# GITHUB ANALYTICS
 
 <div align="center">
 
@@ -99,16 +114,24 @@ Next-generation social platform focused on:
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ilyoskhudayberganov&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
 ---
 
 # CURRENT FOCUS
 
 ```txt
-→ Building scalable startups
-→ Creating AI-integrated systems
-→ Designing premium interfaces
-→ Developing modern education technology
-→ Becoming a world-class founder
+→ Building scalable startup ecosystems
+→ Creating AI-integrated education systems
+→ Designing premium digital experiences
+→ Developing modern full-stack architectures
+→ Expanding globally from Uzbekistan
 ```
 
 ---
@@ -118,15 +141,15 @@ Next-generation social platform focused on:
 <div align="center">
 
 <a href="https://educontest.uz">
-  <img src="https://img.shields.io/badge/Website-18181B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://t.me/khudayberganov_ilyos">
-  <img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram-18181B?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 <a href="mailto:khilyos1219@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-18181B?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -135,8 +158,6 @@ Next-generation social platform focused on:
 
 <div align="center">
 
-```txt
-Building the future through technology.
-```
+### Building global technology products from Uzbekistan 🇺🇿
 
 </div>
