@@ -1,143 +1,151 @@
 <div align="center">
 
-# ILYOS KHUDAYBERGANOV
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,50:0B1023,100:111827&text=ILYOS%20KHUDAYBERGANOV&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Startup%20Founder%20%E2%80%A2%20Product%20Builder&descAlignY=58"/>
 
-### Full-Stack Engineer • UI/UX Architect • Startup Founder • Future Tech CEO
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=800&lines=Building+the+future+of+Education+Technology;Founder+of+Educontest.uz;Creator+of+Loopinuz;Designing+modern+digital+experiences;From+Uzbekistan+to+Global+Tech" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+scalable+digital+products;Founder+of+Educontest.uz;Creator+of+Loopinuz;Designing+modern+AI-powered+platforms;Focused+on+Education%2C+Technology+%26+Innovation"/>
 
-<p align="center">
-  <a href="https://educontest.uz">
-    <img src="https://img.shields.io/badge/EDUCONTEST-Live-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
+<br/><br/>
 
-  <a href="https://loopin.uz">
-    <img src="https://img.shields.io/badge/LOOPINUZ-Platform-7C4DFF?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+<a href="https://educontest.uz">
+  <img src="https://img.shields.io/badge/EDUCONTEST-Platform-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20Education-FF6D00?style=for-the-badge"/>
-</p>
+<a href="https://loopin.uz">
+  <img src="https://img.shields.io/badge/LOOPINUZ-Social%20Platform-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20Education%20%7C%20Startups-0B1120?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# SYSTEM.INFO
 
-```js
-const ilyos = {
-  age: 16,
-  location: "Uzbekistan",
-  role: "Full-stack Developer & Startup Founder",
+```yaml
+name: Ilyos Khudayberganov
+role: Full-Stack Engineer & Startup Founder
+location: Uzbekistan
 
-  currentlyBuilding: [
-    "Educontest.uz",
-    "Loopinuz",
-    "AI-powered education systems"
-  ],
+specialization:
+  - Full-stack development
+  - Product architecture
+  - UI/UX systems
+  - AI-integrated platforms
+  - Startup ecosystems
 
-  mission:
-    "Building scalable technology products that impact millions.",
+currently_building:
+  - Educontest.uz
+  - Loopinuz
+  - AI-driven education products
 
-  interests: [
-    "Startups",
-    "AI",
-    "Modern UI/UX",
-    "EdTech",
-    "Product Design",
-    "System Architecture"
-  ]
-}
+mission:
+  Build scalable products that impact millions globally.
 ```
 
 ---
 
-# 🧠 Philosophy
+# ENGINEERING PHILOSOPHY
 
-> “Small commits create massive companies.”
+```txt
+Clean architecture.
+Modern interfaces.
+Scalable systems.
+Real-world impact.
+```
 
-I focus on building modern digital ecosystems  
-that combine:
+I focus on building technology products that combine:
 
-- clean UI/UX
-- scalable engineering
-- AI integration
-- powerful user experience
-- real-world impact
+- premium user experience
+- scalable backend systems
+- intelligent product design
+- modern frontend architecture
+- AI-powered workflows
 
 ---
 
-# ⚡ Tech Stack
+# TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,figma,python,git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,firebase,tailwind,figma,python,cpp,git,github,linux,vercel,vscode"/>
 
 </div>
 
 ---
 
-# 🌍 Main Projects
-
-## 🎓 Educontest.uz
-
-Modern educational ecosystem designed for:
-
-- online testing
-- academic competitions
-- smart analytics
-- teacher tools
-- scalable learning systems
-
----
-
-## 🦉 Loopinuz
-
-Next-generation social platform focused on:
-
-- modern communication
-- AI integration
-- clean user experience
-- scalable architecture
-
----
-
-# 📊 GitHub Analytics
+# FEATURED PROJECTS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilyoskhudayberganov&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyoskhudayberganov&layout=compact&theme=tokyonight&hide_border=true"/>
+| Platform | Description |
+|---|---|
+| 🎓 Educontest.uz | Smart educational ecosystem with testing, analytics, competitions, and academic systems |
+| 🦉 Loopinuz | Modern AI-powered social communication platform |
+| 🤖 AI Systems | AI-integrated solutions focused on education and productivity |
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+# GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ilyoskhudayberganov&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ilyoskhudayberganov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyoskhudayberganov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ilyoskhudayberganov&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# DEVELOPMENT ACTIVITY
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ilyoskhudayberganov&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+# CURRENT OBJECTIVES
+
+```txt
+→ Building globally scalable startups
+→ Creating AI-powered educational systems
+→ Designing premium user experiences
+→ Developing modern digital ecosystems
+→ Becoming a world-class technology founder
+```
+
+---
+
+# CONNECT
 
 <div align="center">
 
 <a href="https://educontest.uz">
-  <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://t.me/khudayberganov_ilyos">
-  <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram-0F172A?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 <a href="mailto:khilyos1219@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -146,8 +154,14 @@ Next-generation social platform focused on:
 
 <div align="center">
 
-## 🧩 Vision
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-Building global products from Uzbekistan 🇺🇿
+</div>
+
+---
+
+<div align="center">
+
+### BUILDING THE FUTURE FROM UZBEKISTAN 🇺🇿
 
 </div>
