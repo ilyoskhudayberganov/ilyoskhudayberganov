@@ -39,7 +39,7 @@
 
 ```ts
 const ilyos = {
-  role: "Full-Stack Engineer & Startup Founder",
+  role: "Full-Stack Engineer & Startup Founder!",
 
   basedIn: "Uzbekistan",
 
