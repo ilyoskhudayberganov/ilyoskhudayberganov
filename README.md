@@ -1,202 +1,206 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,50:0F172A,100:111827&text=ILYOS%20KHUDAYBERGANOV&fontSize=42&fontColor=22D3EE&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20•%20Startup%20Founder%20•%20Product%20Builder&descAlignY=58&descColor=CBD5E1"/>
+
+<a href="https://github.com/ilyos">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=720&lines=Building+scalable+digital+products.;Crafting+AI-powered+education+systems.;Designing+premium+digital+experiences.;From+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF+to+the+world." alt="typing"/>
+</a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1200&color=94A3B8&center=true&vCenter=true&width=900&lines=Building+modern+technology+products;Founder+of+Educontest+and+Loopinuz;Focused+on+AI%2C+Education+and+Scalable+Systems;Designing+clean+and+powerful+digital+experiences"/>
-
-<br/><br/>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/FOUNDER-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FULLSTACK-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20ENGINEERING-18181B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STARTUP%20BUILDER-111827?style=for-the-badge"/>
-
-</p>
-
-<br/>
-
-<a href="https://educontest.uz">
-  <img src="https://img.shields.io/badge/Educontest-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://loopin.uz">
-  <img src="https://img.shields.io/badge/Loopinuz-18181B?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://t.me/khudayberganov_ilyos">
-  <img src="https://img.shields.io/badge/Telegram-0F172A?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
+<a href="https://educontest.uz"><img src="https://img.shields.io/badge/Educontest-F59E0B?style=flat-square&logo=googleclassroom&logoColor=white" alt="Educontest"/></a>
+<a href="https://loopin.uz"><img src="https://img.shields.io/badge/Loopinuz-10B981?style=flat-square&logo=googlemessages&logoColor=white" alt="Loopinuz"/></a>
+<img src="https://komarev.com/ghpvc/?username=ilyos&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="views"/>
 
 </div>
 
----
+<br/>
 
-# ABOUT
+## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/code/default/24px.svg" width="22" align="center" /> &nbsp;About Me
 
-```ts
+​```ts
 const ilyos = {
   role: "Full-Stack Engineer & Startup Founder",
+  basedIn: "Uzbekistan 🇺🇿",
 
-  basedIn: "Uzbekistan",
-
-  currentlyBuilding: [
-    "Educontest",
-    "Loopinuz",
-    "AI-powered education systems"
-  ],
+  currentlyBuilding: ["Educontest", "Loopinuz", "AI-powered education systems"],
 
   specialization: [
     "Frontend Architecture",
     "Backend Systems",
     "UI/UX Engineering",
     "Product Design",
-    "Scalable Platforms"
+    "Scalable Platforms",
   ],
 
-  mission:
-    "Building scalable digital products with real-world impact."
-}
-```
-
----
-
-# PHILOSOPHY
-
-> Technology should feel simple, scalable, and meaningful.
-
-I focus on building products that combine:
-
-- clean architecture
-- modern interface systems
-- scalable backend engineering
-- intelligent user experience
-- long-term usability
-
----
-
-# TECH STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,postgres,firebase,tailwind,figma,python,cpp,git,github,linux,vercel,vscode"/>
-
-</div>
-
----
-
-# FEATURED PROJECTS
-
-## 🎓 EDUCONTEST
-
-Modern educational ecosystem designed for:
-
-- online assessments
-- academic competitions
-- analytics systems
-- teacher management
-- scalable learning infrastructure
+  mission: "Building scalable digital products with real-world impact.",
+};
+​```
 
 <br/>
 
-## 🦉 LOOPINUZ
+## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/auto_awesome/default/24px.svg" width="22" align="center" /> &nbsp;Philosophy
 
-Next-generation social platform focused on:
+> **Technology should feel simple, scalable, and meaningful.**
 
-- clean communication
-- AI integration
-- modern interaction systems
-- scalable architecture
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/architecture/default/48px.svg" width="36"/><br/>
+      <sub><b>Clean<br/>Architecture</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/palette/default/48px.svg" width="36"/><br/>
+      <sub><b>Modern<br/>Interfaces</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/settings/default/48px.svg" width="36"/><br/>
+      <sub><b>Scalable<br/>Backends</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/psychology/default/48px.svg" width="36"/><br/>
+      <sub><b>Intelligent<br/>UX</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/all_inclusive/default/48px.svg" width="36"/><br/>
+      <sub><b>Long-term<br/>Usability</b></sub>
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
-# GITHUB ANALYTICS
+## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/handyman/default/24px.svg" width="22" align="center" /> &nbsp;Tech Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ilyoskhudayberganov&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&text_color=94A3B8&icon_color=38BDF8"/>
+**Languages**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyoskhudayberganov&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=94A3B8"/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,go" alt="languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css" alt="frontend" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,prisma" alt="backend" />
+
+**Database & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,supabase,nginx" alt="infra" />
+
+**AI, Tools & Design**
+
+<img src="https://skillicons.dev/icons?i=openai,figma,git,github,vscode,postman" alt="tools" />
 
 </div>
 
 <br/>
 
+## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/rocket_launch/default/24px.svg" width="22" align="center" /> &nbsp;Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/school/default/48px.svg" width="42"/><br/>
+        EDUCONTEST
+      </h3>
+      <p align="center"><i>Modern educational ecosystem.</i></p>
+      <ul>
+        <li>🧪 Online assessments</li>
+        <li>🏆 Academic competitions</li>
+        <li>📊 Analytics systems</li>
+        <li>👩‍🏫 Teacher management</li>
+        <li>⚡ Scalable learning infrastructure</li>
+      </ul>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/Visit_Project-→-F59E0B?style=for-the-badge"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/forum/default/48px.svg" width="42"/><br/>
+        LOOPINUZ
+      </h3>
+      <p align="center"><i>Next-generation social platform.</i></p>
+      <ul>
+        <li>💬 Clean communication</li>
+        <li>🤖 AI integration</li>
+        <li>✨ Modern interaction systems</li>
+        <li>🏗️ Scalable architecture</li>
+        <li>🌐 Global-ready experience</li>
+      </ul>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/Visit_Project-→-10B981?style=for-the-badge"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/insights/default/24px.svg" width="22" align="center" /> &nbsp;GitHub Analytics
+
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ilyoskhudayberganov&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ilyos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&icon_color=10B981&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="stats"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ilyos&theme=tokyonight&hide_border=true&background=0D1117&ring=F59E0B&fire=10B981&currStreakLabel=F59E0B" alt="streak"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=C9D1D9&langs_count=8" alt="languages"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ilyos&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ilyos&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F59E0B&line=10B981&point=FFFFFF&area=true&area_color=F59E0B" width="98%" alt="activity"/>
 
 </div>
 
----
+<br/>
 
-# CONTRIBUTION STREAK
+## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/target/default/24px.svg" width="22" align="center" /> &nbsp;Current Objectives
+
+​```txt
+→  Building scalable startup ecosystems
+→  Creating AI-powered education systems
+→  Designing premium digital experiences
+→  Developing modern full-stack architectures
+→  Expanding globally from Uzbekistan
+​```
+
+<br/>
+
+## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/animation/default/24px.svg" width="22" align="center" /> &nbsp;Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
+</div>
+
+<br/>
+
+## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/connect_without_contact/default/24px.svg" width="22" align="center" /> &nbsp;Connect With Me
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ilyoskhudayberganov&theme=tokyonight&hide_border=true&background=0D1117"/>
+<a href="https://t.me/IlyosKhudayberganov"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://instagram.com/IlyosKhudayberganov"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/IlyosKhudayberganov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/IlyosKhudayberganov"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:ilyoskhudayberganov@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
----
-
-# PROFILE VIEWS
+<br/>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ilyoskhudayberganov&style=for-the-badge&color=22D3EE"/>
+### 🌍 Building global technology products from Uzbekistan 🇺🇿
 
-</div>
+<i>"Code is craft. Products are stories. Impact is the goal."</i>
 
----
-
-# CURRENT OBJECTIVES
-
-```txt
-→ Building scalable startup ecosystems
-→ Creating AI-powered education systems
-→ Designing premium digital experiences
-→ Developing modern full-stack architectures
-→ Expanding globally from Uzbekistan
-```
-
----
-
-# CONNECT
-
-<div align="center">
-
-<a href="https://educontest.uz">
-  <img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:khilyos1219@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-18181B?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://t.me/khudayberganov_ilyos">
-  <img src="https://img.shields.io/badge/Telegram-0F172A?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# SNAKE CONTRIBUTION
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ilyoskhudayberganov/ilyoskhudayberganov/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-<div align="center">
-
-### Building global technology products from Uzbekistan 🇺🇿
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%" alt="footer"/>
 
 </div>
