@@ -1,8 +1,7 @@
 <div align="center">
 
-
 <a href="https://github.com/ilyos">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=720&lines=Building+scalable+digital+products.;Crafting+AI-powered+education+systems.;Designing+premium+digital+experiences.;From+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF+to+the+world." alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F59E0B¢er=true&vCenter=true&width=720&lines=Building+scalable+digital+products.;Crafting+AI-powered+education+systems.;Designing+premium+digital+experiences.;From+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF+to+the+world." alt="typing"/>
 </a>
 
 <br/>
@@ -15,9 +14,9 @@
 
 <br/>
 
-## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/code/default/24px.svg" width="22" align="center" /> &nbsp;About Me
+## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/code/default/24px.svg" width="22" align="center" />  About Me
 
-​```ts
+```ts
 const ilyos = {
   role: "Full-Stack Engineer & Startup Founder",
   basedIn: "Uzbekistan 🇺🇿",
@@ -34,11 +33,11 @@ const ilyos = {
 
   mission: "Building scalable digital products with real-world impact.",
 };
-​```
+```
 
 <br/>
 
-## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/auto_awesome/default/24px.svg" width="22" align="center" /> &nbsp;Philosophy
+## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/auto_awesome/default/24px.svg" width="22" align="center" />  Philosophy
 
 > **Technology should feel simple, scalable, and meaningful.**
 
@@ -69,7 +68,7 @@ const ilyos = {
 
 <br/>
 
-## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/handyman/default/24px.svg" width="22" align="center" /> &nbsp;Tech Stack
+## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/handyman/default/24px.svg" width="22" align="center" />  Tech Stack
 
 <div align="center">
 
@@ -97,7 +96,7 @@ const ilyos = {
 
 <br/>
 
-## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/rocket_launch/default/24px.svg" width="22" align="center" /> &nbsp;Featured Projects
+## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/rocket_launch/default/24px.svg" width="22" align="center" />  Featured Projects
 
 <table>
   <tr>
@@ -140,7 +139,7 @@ const ilyos = {
 
 <br/>
 
-## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/insights/default/24px.svg" width="22" align="center" /> &nbsp;GitHub Analytics
+## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/insights/default/24px.svg" width="22" align="center" />  GitHub Analytics
 
 <div align="center">
 
@@ -161,19 +160,19 @@ const ilyos = {
 
 <br/>
 
-## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/target/default/24px.svg" width="22" align="center" /> &nbsp;Current Objectives
+## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/target/default/24px.svg" width="22" align="center" />  Current Objectives
 
-​```txt
+```txt
 →  Building scalable startup ecosystems
 →  Creating AI-powered education systems
 →  Designing premium digital experiences
 →  Developing modern full-stack architectures
 →  Expanding globally from Uzbekistan
-​```
+```
 
 <br/>
 
-## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/animation/default/24px.svg" width="22" align="center" /> &nbsp;Contribution Snake
+## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/animation/default/24px.svg" width="22" align="center" />  Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
@@ -181,7 +180,7 @@ const ilyos = {
 
 <br/>
 
-## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/connect_without_contact/default/24px.svg" width="22" align="center" /> &nbsp;Connect With Me
+## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/connect_without_contact/default/24px.svg" width="22" align="center" />  Connect With Me
 
 <div align="center">
 
@@ -201,6 +200,6 @@ const ilyos = {
 
 <i>"Code is craft. Products are stories. Impact is the goal."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120§ion=footer&animation=fadeIn" width="100%" alt="footer"/>
 
 </div>
