@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/ilyoskhudayberganov">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=F59E0B¢er=true&vCenter=true&width=720&lines=Building+scalable+digital+products.;Crafting+AI-powered+education+systems.;Designing+premium+digital+experiences.;From+Uzbekistan+%F0%9F%87%BA%F0%9F%87%BF+to+the+world." alt="typing"/>
-</a>
+
 
 <br/>
 
