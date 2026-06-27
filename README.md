@@ -1,17 +1,5 @@
 <div align="center">
 
-
-
-<br/>
-
-<a href="https://educontest.uz"><img src="https://img.shields.io/badge/Educontest-F59E0B?style=flat-square&logo=googleclassroom&logoColor=white" alt="Educontest"/></a>
-<a href="https://loopin.uz"><img src="https://img.shields.io/badge/Loopinuz-10B981?style=flat-square&logo=googlemessages&logoColor=white" alt="Loopinuz"/></a>
-<img src="https://komarev.com/ghpvc/?username=ilyos&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="views"/>
-
-</div>
-
-<br/>
-
 ## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/code/default/24px.svg" width="22" align="center" />  About Me
 
 ```ts
